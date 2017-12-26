@@ -11,4 +11,4 @@ ng new my-dream-app
 
 cd  my-dream-app
 
-ng server
+ng serve
